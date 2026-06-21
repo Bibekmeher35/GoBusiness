@@ -254,7 +254,7 @@ function Dashboard() {
           <>
             {/* Overview Section */}
             {metrics && metrics.length > 0 && (
-              <section className="card" role="region" aria-label="Overview metrics">
+              <section className="card" aria-label="Overview metrics">
                 <h2 className="card-title">Overview</h2>
                 <div className="overview-grid">
                   {metrics.map((metric) => (
