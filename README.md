@@ -1,5 +1,7 @@
 # Go Business - Referral Dashboard
 
+**Live Demo:** [gobusinesss.netlify.app](https://gobusinesss.netlify.app/)
+
 A secure, responsive, and intuitive referral management system built for **Go Business** using React. It allows users to track referrals, earnings, and partner activity through a structured dashboard with exact color-scheme matching and page layout alignments.
 
 ---
